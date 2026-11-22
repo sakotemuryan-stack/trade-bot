@@ -1,0 +1,3 @@
+# MQL5 (.mq5/.mqh) is C++-like: parse it with the C++ extractor
+language.mq5=cpp
+language.mqh=cpp
